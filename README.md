@@ -16,3 +16,9 @@ To animate design
   <li> svgator
 </ul>
 
+
+React Js Resources
+<ul>
+  <li> YT v- web dev simplified
+  <li> React.dev
+</ul>
