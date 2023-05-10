@@ -22,3 +22,8 @@ React Js Resources
   <li> YT v- web dev simplified
   <li> React.dev
 </ul>
+
+To integrate devices services
+<ul>
+  <li> IFTTT
+</ul>
